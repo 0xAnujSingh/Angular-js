@@ -1,0 +1,36 @@
+{
+  "Product": [
+    {
+      "id": "101",
+      "pName": "Ghee",
+      "pPrice": "899",
+      "pMfgDate": "2023-01-01T18:30:00.000Z",
+      "pExpiryDate": "2034-11-28T18:30:00.000Z",
+      "pAvailabiltyCount": 13
+    },
+    {
+      "id": "103",
+      "pName": "cherry",
+      "pPrice": "290",
+      "pMfgDate": "2022-12-31T18:30:00.000Z",
+      "pExpiryDate": "2023-03-14T18:30:00.000Z",
+      "pAvailabiltyCount": 10
+    },
+    {
+      "id": "104",
+      "pName": "makhaan",
+      "pPrice": "290",
+      "pMfgDate": "2022-12-31T18:30:00.000Z",
+      "pExpiryDate": "2023-03-14T18:30:00.000Z",
+      "pAvailabiltyCount": 3
+    },
+    {
+      "id": 107,
+      "pName": "Devki",
+      "pPrice": 100,
+      "pMfgDate": "1/1/1",
+      "pExpiryDate": "1/1/1",
+      "pAvailabiltyCount": 10
+    }
+  ]
+}
